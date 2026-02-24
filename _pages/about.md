@@ -36,9 +36,9 @@ Intelligent robotics systems, Brain-inspired and neuromorphic computing chip, Sc
 
 - **Ma, S.**, et al. (2022). Neuromorphic Computing Chip with Spatiotemporal Elasticity for Multi-intelligent-tasking Robots. *Science Robotics*, 7(67), eabk2948. **(Science Highlighted Feature AAAS News, Chip10 Science in 2022, Impacting Factor:25.0)**.
 - Yu, F., Wu, Y., **Ma, S. (co-first)**, et al. (2023). Brain-inspired Multimodal Hybrid Neural Network for Robot Place Recognition. *Science Robotics*, 8(78), eabm6996. **(Cover feature article, Impacting Factor:25.0)**.
-- Zhang, W., **Ma, S. (co-first)**, et al. (2024). The Development of General-Purpose Brain-Inspired Computing. *Nature Electronics*, 7:954-965. **(Impacting Factor:34.5)**
+- Zhang, W., **Ma, S. (co-first)**, et al. (2024). The Development of General-Purpose Brain-Inspired Computing. *Nature Electronics*, 7:954-965. **(Impacting Factor:34.5)**.
 - **Ma, S.**, et al. (2025). CoXplorer: Multi-Staged Co-Exploration Framework for AI Model Compression and Accelerator Design. In *ACM/IEEE Int. Conf. on Computer-Aided Design* **(ICCAD 2025, top-tier conference in EDA)**.
-- Tan, Y., **Ma, S. (co-first)**, et al. (2026). A 5nm 91.43 TOPS/W 4-Chiplet Generalizable Rendering Processor with UCIe-Enabled Cross-Die Cache and Balance-Aware Progressive Multi-Level Sparsity. *IEEE Custom Integrated Circuits Conference (CICC), Seattle, 2026* **(Accepted, to appear, top-tier conference in IC)**..
+- Tan, Y., **Ma, S. (co-first)**, et al. (2026). A 5nm 91.43 TOPS/W 4-Chiplet Generalizable Rendering Processor with UCIe-Enabled Cross-Die Cache and Balance-Aware Progressive Multi-Level Sparsity. *IEEE Custom Integrated Circuits Conference (CICC), Seattle, 2026* **(Accepted, to appear, top-tier conference in IC)**.
 - Li, H., **Ma, S.* (co-first, co-corresponding)**, Wang, T., ... & Zhao, R.* (2024). HASP: Hierarchical Asynchronous Parallelism for Multi-NN Tasks. *IEEE Transactions on Computers*, 73(2):366-379.
 - Lin, J., Qu H., **Ma, S. (co-first)**, et al. (2023). SongC: A Compiler for Hybrid Near-Memory and In-Memory Many-Core Architecture. *IEEE Transactions on Computers*, 73(10):2420-2433.
 
