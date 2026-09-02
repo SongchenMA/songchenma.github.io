@@ -6,23 +6,22 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**Post-doctoral Fellow**
+**Research Assistant Professor**
 
 *The Hong Kong University of Science and Technology (HKUST)*  
-*AI Chip Center for Emerging Smart Systems (ACCESS)*
 
-Dr. Songchen Ma is currently a Postdoctoral Fellow at the AI Chip Center for Emerging Smart Systems ([ACCESS](https://inno-access.hk)) under InnoHK and The Hong Kong University of Science and Technology ([HKUST](https://vsdl.hkust.edu.hk/)), working with Prof. [Kwang-Ting Cheng](https://seng.hkust.edu.hk/about/people/faculty/tim-kwang-ting-cheng?id=326). He received his B.E. degree from Jilin University in 2019 and his Ph.D. degree in Instrument Science and Technology from Tsinghua University in 2024, under the supervision of Prof. [Luping Shi](https://faculty.dpi.tsinghua.edu.cn/shiluping/en/index.htm) and Prof. [Rong Zhao](https://faculty.dpi.tsinghua.edu.cn/zhaorong/zh_CN/index/12826/list/index.htm). During his doctoral studies, he was awarded the Tsinghua Excellent Dissertation Award and recognized as an Outstanding PhD graduate. Dr. Ma's research focuses on scalable brain-inspired computing architecture, AI chip design, and embodied AI systems. He developed the world's first brain-inspired computing chip for multi-task robots, [TianjicX](https://www.science.org/doi/10.1126/scirobotics.abk2948), which was awarded the [Chip10 Science Award in 2022](https://www.cbicr.tsinghua.edu.cn/?p=581) and the "NSK Sino-Japan Friendship Outstanding Paper Prize". His work has also been highlighted by [AAAS News](https://www.aaas.org/news/new-chip-helps-robot-make-quick-decisions-cat-and-mouse-game) and selected as a [Research Highlight in Nature Electronics](https://www.nature.com/articles/s41928-022-00830-x). His research has been published in top-tier journals and conferences, including two papers in Science Robotics (one as cover feature and the other highlighted by AAAS News), as well as publications in Nature Electronics, Nature Communications, IEEE Transactions on Computers, ISCA, CICC and ICCAD.
+Dr. Songchen Ma is currently a [Research Assistant Professor](https://ece.hkust.edu.hk/songchenma) in the Department of Electronic and Computer Engineering at The Hong Kong University of Science and Technology (HKUST). He received his B.E. degree from Jilin University in 2019 and his Ph.D. degree in Instrument Science and Technology from Tsinghua University in 2024, under the supervision of Prof. [Luping Shi](https://faculty.dpi.tsinghua.edu.cn/shiluping/en/index.htm) and Prof. [Rong Zhao](https://faculty.dpi.tsinghua.edu.cn/zhaorong/zh_CN/index/12826/list/index.htm). He was a Postdoctoral Fellow at the AI Chip Center for Emerging Smart Systems ([ACCESS](https://inno-access.hk)) under InnoHK from 2024 to 2026, working with Prof. [Kwang-Ting Cheng](https://seng.hkust.edu.hk/about/people/faculty/tim-kwang-ting-cheng?id=326). Dr. Ma's research focuses on scalable brain-inspired computing architecture, AI chip design, and embodied AI systems. He developed the world's first brain-inspired computing chip for multi-task robots, [TianjicX](https://www.science.org/doi/10.1126/scirobotics.abk2948), which was awarded the [Chip10 Science Award in 2022](https://www.cbicr.tsinghua.edu.cn/?p=581) and the "NSK Sino-Japan Friendship Outstanding Paper Prize". His Ph.D. dissertation was recognized by the Tsinghua Excellent Dissertation Award in 2024. His work has also been highlighted by [AAAS News](https://www.aaas.org/news/new-chip-helps-robot-make-quick-decisions-cat-and-mouse-game) and selected as a [Research Highlight in Nature Electronics](https://www.nature.com/articles/s41928-022-00830-x). His research has been published in top-tier journals and conferences, including two papers in Science Robotics (one as cover feature and the other highlighted by AAAS News), as well as publications in Nature Electronics, Nature Communications, IEEE Transactions on Computers, ISCA, ISSCC, CICC, ICML and ICCAD.
 
 ## Research Interests
 
 Intelligent robotics systems, Brain-inspired and neuromorphic computing chip, Scalable AI chip architecture.
 
 ## Professional Experience
-
-- **Post-doctoral Fellow**, ACCESS @ HKUST, 2024.09–present
+- **Research Assistant Professor**, Department of Electronic and Computer Engineering @ HKUST, 2026.09–present
+  - Research focus: scalable AI chip/system architecture and computing hardware for intelligent robotics.
+- **Post-doctoral Fellow**, ACCESS @ HKUST, 2024.09–2026.09
   - Sponsored by Hong Kong RTH‑I.T.F
   - Collaborating Advisor: Prof. Kwang-Ting (Tim) Cheng
-  - Research focus: scalable AI chip/system architecture and computing hardware for intelligent robotics.
 
 ## Education Experience
 
